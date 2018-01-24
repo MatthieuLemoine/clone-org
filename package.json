@@ -1,0 +1,22 @@
+{
+  "name": "clone-org",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "MatthieuLemoine",
+  "bin": {
+    "clone-org": "index.js"
+  },
+  "dependencies": {
+    "@std/esm": "^0.19.7",
+    "graphql-request": "^1.4.1",
+    "yargs": "^11.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "pretty": "prettier --single-quote --trailing-comma es5 --write \"src/**\""
+  },
+  "devDependencies": {
+    "prettier": "^1.10.2"
+  }
+}
