@@ -1,5 +1,5 @@
 {
-  "name": "clone-org",
+  "name": "@matthieulemoine/clone-org",
   "version": "1.0.0",
   "description": "Clone all the repositories of a given organization.",
   "main": "index.js",
