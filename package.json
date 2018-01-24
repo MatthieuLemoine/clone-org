@@ -1,9 +1,11 @@
 {
   "name": "clone-org",
   "version": "1.0.0",
+  "description": "Clone all the repositories of a given organization.",
   "main": "index.js",
   "license": "MIT",
   "author": "MatthieuLemoine",
+  "repository": "https://github.com/MatthieuLemoine/clone-org",
   "bin": {
     "clone-org": "index.js"
   },
